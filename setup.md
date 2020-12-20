@@ -1,7 +1,6 @@
 ---
 title: Setup
 ---
-FIXME
-
+Get a gmail account XD
 
 {% include links.md %}
