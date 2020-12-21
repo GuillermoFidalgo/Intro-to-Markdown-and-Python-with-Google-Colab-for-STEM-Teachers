@@ -8,9 +8,9 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
-# Welcome to the Intorductory Python for STEM Teachers Workshop
+# Welcome to the Software Carpentry K-12 Teachers
 
-This is the software carpentry for STEM Teachers. This is intended for people (mainly teachers) who are not familiar with programming at any level.
+This is intended for people (mainly teachers) who are not familiar with programming at any level.
 The hope is that through this workshop we are able to enable STEM teachers with basic knowledge on Google Colab and Python such that they can further develop and complement their class with programming in any way.
 
 
