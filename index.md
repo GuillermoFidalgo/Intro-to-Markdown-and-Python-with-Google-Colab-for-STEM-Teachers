@@ -8,11 +8,20 @@ permalink: index.html  # Is the only page that doesn't follow the pattern /:path
 
 {% comment %} This is a comment in Liquid {% endcomment %}
 
+# Welcome to the Intorductory Python for STEM Teachers Workshop
+
+This is the software carpentry for STEM Teachers. This is intended for people (mainly teachers) who are not familiar with programming at any level.
+The hope is that through this workshop we are able to enable STEM teachers with basic knowledge on Google Colab and Python such that they can further develop and complement their class with programming in any way.
+
+
+## What you need to know
+
+Python is a high level language, that is, it is easy for the reader to understand its syntax.
+
+**Go to the setup to learn how to get started!**
+
 > ## Prerequisites
-> Nothing is needed as this is an introductory workshop.
 > - A Gmail account. And sometimes not even that!
 {: .prereq}
 
-<!-- {% include syllabus.html %} -->
-
-<!-- {% include links.md %} -->
+{% include links.md %}
