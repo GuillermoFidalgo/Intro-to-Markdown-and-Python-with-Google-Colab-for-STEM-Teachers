@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Introduction to HEP Flavored Python and Machine Learning for STEM Teachers"
+title: "Software Carpentry for K-12 teachers"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"

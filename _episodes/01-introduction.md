@@ -1,10 +1,12 @@
 ---
 title: "Introduction"
 teaching: 10
-exercises: 10
+exercises:
 questions:
-- "Key question (FIXME)"
-- "hi?"
+- "How do I use Google Colab?"
+- "What is Markdown?"
+- "What is LaTeX?"
+- "How to do math with Python"
 objectives:
 - "First learning objective."
 keypoints:

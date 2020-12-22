@@ -55,11 +55,14 @@ If you have a command line with bash you can have a local copy of all the files 
 Just do the following
 
 _you can copy by either `ctrl-Shift-C` or simply by selecting the lines. You can paste in the command line by `ctrl-Shift-V` , `Shift-Ins` or `right-click`_
-```shell
+
+~~~
 cd
 git clone https://github.com/hsf-training/hsf-k12-python-for-stem-teachers.git
 cd hsf-k12-python-for-stem-teachers/
-```
+~~~
+{: .language-bash}
+
 From here you can run all the notebooks used in this workshop.
 
 
